@@ -1,8 +1,17 @@
-# iTerm 2 Color Schemes
+## 📺 Welcome to 1984 📺
 
-## Installation
+### **80s Neon-Styles for iTerm 2**
+
+### Installation
 * Clone this repository
 * Open iTerm 2 and go to Preferences -> Profiles -> Colors
 * Choose `Import...` from the `Color Presets` dropdown
 * Find the `.itermcolors` file of the theme you want to use and click `Open`
 * Now select the imported theme from the `Color Presets` dropdown
+
+### Themes
+####1984
+![Screenshot](screenshots/1984.png)
+
+####1984 - Light
+![Screenshot](screenshots/1984-light.png)
