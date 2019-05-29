@@ -16,6 +16,9 @@
 #### 1984 - Light
 ![Screenshot](screenshots/1984-light.png)
 
+#### 1984 - Orwellian
+![Screenshot](screenshots/1984-orwellian.png)
+
 ### Credit
 * Inspiration comes from [juanmnl](https://github.com/juanmnl)'s [vs-1984 theme](https://github.com/juanmnl/vs-1984) for VSCode.
 * Screenshots are courtesy of a tool created by [mbadolato](https://github.com/mbadolato) and can be found in [this repo](https://github.com/mbadolato/iTerm2-Color-Schemes).
