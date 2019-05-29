@@ -1,6 +1,6 @@
 ## 📺 Welcome to 1984 📺
 
-### **80s Neon-Styles for iTerm 2**
+### **80s Neon-Styles for iTerm 2 inspired by [juanmnl's 1984 themes for VSCode](https://github.com/juanmnl/vs-1984)**
 
 ### Installation
 * Clone this repository
